@@ -1,0 +1,6 @@
+POST http://localhost:5001/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.google.com/search?sxsrf=ALeKk00-v9iYMboqwpBER1TS368nzjlDew%3A1610105810924&source=hp&ei=0kP4X4WONo7Vz7sPtpGxoAw&q=internships&oq=internships&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyCAgAELEDEIMBMggIABCxAxDJAzICCAAyBQgAELEDMgIIADICCAA6BwgjEOoCECc6BwguECcQkwI6BAgjECc6CwgAELEDEIMBEMkDOgIILjoHCAAQyQMQQzoECAAQQzoKCAAQsQMQgwEQQzoECC4QQzoHCAAQsQMQQzoICAAQyQMQkQI6BQgAEJECOgUILhCxA1D6D1iCI2DnJGgBcAB4AIAB6AGIAYsJkgEFMC42LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwiFv6LHn4zuAhWO6nMBHbZIDMQQ4dUDCAc&uact=5"
+}
